@@ -1,1 +1,1 @@
-print("I am making changes")
+print("This is the first lesson")
